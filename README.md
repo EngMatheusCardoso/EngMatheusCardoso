@@ -4,7 +4,7 @@ São José do Rio Preto/SP · aberto a oportunidades (presencial, híbrido ou re
 
 <p align="center">
   <a href="https://portfolio.mysolucoesemti.com.br"><img src="https://img.shields.io/badge/Portfólio-86E33A?style=for-the-badge&logoColor=black" alt="Portfólio"></a>
-  <a href="https://www.linkedin.com/in/matheus-cardoso-62406b286"><img src="https://img.shields.io/badge/LinkedIn-0b0d0c?style=for-the-badge&logo=linkedin&logoColor=86E33A" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/matheuscardoso-dev"><img src="https://img.shields.io/badge/LinkedIn-0b0d0c?style=for-the-badge&logo=linkedin&logoColor=86E33A" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/dev_matheus.cardoso"><img src="https://img.shields.io/badge/Instagram-0b0d0c?style=for-the-badge&logo=instagram&logoColor=86E33A" alt="Instagram"></a>
   <a href="mailto:contato@mysolucoesemti.com.br"><img src="https://img.shields.io/badge/E--mail-0b0d0c?style=for-the-badge&logo=gmail&logoColor=86E33A" alt="E-mail"></a>
 </p>
